@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *Description main - start point
- * Return: Always 0 (Success)
+ * main - start point
+ * Return: 0
  */
 int main(void)
 {
