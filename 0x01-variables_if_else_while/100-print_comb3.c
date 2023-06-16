@@ -26,7 +26,7 @@ int main(void)
 		x = 0;
 		while (x < 10)
 		{
-			if (y != x && d < x)
+			if (y != x && y < x)
 			{
 				putchar('0' + y);
 				putchar('0' + x);

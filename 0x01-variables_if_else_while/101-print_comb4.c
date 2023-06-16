@@ -24,13 +24,13 @@ int main(void)
 
 	while (z < 10)
 	{
-		d = 0;
+		y = 0;
 		while (y < 10)
 		{
 			x = 0;
 			while (x < 10)
 			{
-				if (x != y && y != z && z < y && y < c)
+				if (x != y && y != z && z < y && y < x)
 				{
 					putchar('0' + z);
 					putchar('0' + y);
