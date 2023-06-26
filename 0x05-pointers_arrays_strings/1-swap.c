@@ -3,8 +3,8 @@
 /**
  * swap_int - fun swap the value of two integers.
  *
- * @a: first integer.
- * @b: second integer.
+ * @x: first integer.
+ * @y: second integer.
  *
  */
 
